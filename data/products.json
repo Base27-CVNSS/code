@@ -1,0 +1,309 @@
+[
+  {
+    "id": "VF001",
+    "title": "WebGIS Starter — Bản đồ dữ liệu mở",
+    "category": "GIS & WebGIS",
+    "stack": "HTML / JavaScript",
+    "price": 0,
+    "kind": "map",
+    "featured": true,
+    "version": "1.0.0",
+    "license": "MIT",
+    "description": "Giao diện mẫu cho bản đồ dữ liệu mở, thiết kế responsive và dễ tùy chỉnh theo dự án.",
+    "features": [
+      "Giao diện desktop và điện thoại",
+      "Cấu trúc thư mục rõ ràng",
+      "Hướng dẫn cấu hình và triển khai",
+      "Dữ liệu minh họa để thử giao diện"
+    ],
+    "status": "starter",
+    "download": "starters/VF001.html"
+  },
+  {
+    "id": "VF002",
+    "title": "GeoDashboard — Quan trắc môi trường",
+    "category": "GIS & WebGIS",
+    "stack": "React / API",
+    "price": 690000,
+    "kind": "dashboard",
+    "featured": true,
+    "version": "1.0.0",
+    "license": "Giấy phép mẫu — cần xác nhận với người bán",
+    "description": "Giao diện mẫu cho quan trắc môi trường, thiết kế responsive và dễ tùy chỉnh theo dự án.",
+    "features": [
+      "Giao diện desktop và điện thoại",
+      "Cấu trúc thư mục rõ ràng",
+      "Hướng dẫn cấu hình và triển khai",
+      "Dữ liệu minh họa để thử giao diện"
+    ],
+    "status": "catalog-demo"
+  },
+  {
+    "id": "VF003",
+    "title": "ShopFlow — Website bán hàng",
+    "category": "Website bán hàng",
+    "stack": "PHP / MySQL",
+    "price": 490000,
+    "kind": "shop",
+    "featured": true,
+    "version": "1.0.0",
+    "license": "Giấy phép mẫu — cần xác nhận với người bán",
+    "description": "Giao diện mẫu cho website bán hàng, thiết kế responsive và dễ tùy chỉnh theo dự án.",
+    "features": [
+      "Giao diện desktop và điện thoại",
+      "Cấu trúc thư mục rõ ràng",
+      "Hướng dẫn cấu hình và triển khai",
+      "Dữ liệu minh họa để thử giao diện"
+    ],
+    "status": "catalog-demo"
+  },
+  {
+    "id": "VF004",
+    "title": "StayBook — Đặt phòng khách sạn",
+    "category": "Quản lý & Booking",
+    "stack": "Laravel",
+    "price": 790000,
+    "kind": "booking",
+    "featured": true,
+    "version": "1.0.0",
+    "license": "Giấy phép mẫu — cần xác nhận với người bán",
+    "description": "Giao diện mẫu cho đặt phòng khách sạn, thiết kế responsive và dễ tùy chỉnh theo dự án.",
+    "features": [
+      "Giao diện desktop và điện thoại",
+      "Cấu trúc thư mục rõ ràng",
+      "Hướng dẫn cấu hình và triển khai",
+      "Dữ liệu minh họa để thử giao diện"
+    ],
+    "status": "catalog-demo"
+  },
+  {
+    "id": "VF005",
+    "title": "AI Chat UI — Trợ lý doanh nghiệp",
+    "category": "AI & Automation",
+    "stack": "JavaScript",
+    "price": 0,
+    "kind": "chat",
+    "featured": true,
+    "version": "1.0.0",
+    "license": "MIT",
+    "description": "Giao diện mẫu cho trợ lý doanh nghiệp, thiết kế responsive và dễ tùy chỉnh theo dự án.",
+    "features": [
+      "Giao diện desktop và điện thoại",
+      "Cấu trúc thư mục rõ ràng",
+      "Hướng dẫn cấu hình và triển khai",
+      "Dữ liệu minh họa để thử giao diện"
+    ],
+    "status": "starter",
+    "download": "starters/VF005.html"
+  },
+  {
+    "id": "VF006",
+    "title": "FieldCollect — Thu thập thực địa",
+    "category": "GIS & WebGIS",
+    "stack": "PWA / GeoJSON",
+    "price": 590000,
+    "kind": "map",
+    "featured": true,
+    "version": "1.0.0",
+    "license": "Giấy phép mẫu — cần xác nhận với người bán",
+    "description": "Giao diện mẫu cho thu thập thực địa, thiết kế responsive và dễ tùy chỉnh theo dự án.",
+    "features": [
+      "Giao diện desktop và điện thoại",
+      "Cấu trúc thư mục rõ ràng",
+      "Hướng dẫn cấu hình và triển khai",
+      "Dữ liệu minh họa để thử giao diện"
+    ],
+    "status": "catalog-demo"
+  },
+  {
+    "id": "VF007",
+    "title": "EduSpace — Website khóa học",
+    "category": "Website bán hàng",
+    "stack": "React",
+    "price": 390000,
+    "kind": "dashboard",
+    "featured": false,
+    "version": "1.0.0",
+    "license": "Giấy phép mẫu — cần xác nhận với người bán",
+    "description": "Giao diện mẫu cho website khóa học, thiết kế responsive và dễ tùy chỉnh theo dự án.",
+    "features": [
+      "Giao diện desktop và điện thoại",
+      "Cấu trúc thư mục rõ ràng",
+      "Hướng dẫn cấu hình và triển khai",
+      "Dữ liệu minh họa để thử giao diện"
+    ],
+    "status": "catalog-demo"
+  },
+  {
+    "id": "VF008",
+    "title": "Portfolio Studio — Hồ sơ sáng tạo",
+    "category": "Template & Landing",
+    "stack": "HTML / CSS",
+    "price": 0,
+    "kind": "portfolio",
+    "featured": false,
+    "version": "1.0.0",
+    "license": "MIT",
+    "description": "Giao diện mẫu cho hồ sơ sáng tạo, thiết kế responsive và dễ tùy chỉnh theo dự án.",
+    "features": [
+      "Giao diện desktop và điện thoại",
+      "Cấu trúc thư mục rõ ràng",
+      "Hướng dẫn cấu hình và triển khai",
+      "Dữ liệu minh họa để thử giao diện"
+    ],
+    "status": "starter",
+    "download": "starters/VF008.html"
+  },
+  {
+    "id": "VF009",
+    "title": "Warehouse Desk — Quản lý kho",
+    "category": "Quản lý & Booking",
+    "stack": "Node.js / SQL",
+    "price": 890000,
+    "kind": "dashboard",
+    "featured": false,
+    "version": "1.0.0",
+    "license": "Giấy phép mẫu — cần xác nhận với người bán",
+    "description": "Giao diện mẫu cho quản lý kho, thiết kế responsive và dễ tùy chỉnh theo dự án.",
+    "features": [
+      "Giao diện desktop và điện thoại",
+      "Cấu trúc thư mục rõ ràng",
+      "Hướng dẫn cấu hình và triển khai",
+      "Dữ liệu minh họa để thử giao diện"
+    ],
+    "status": "catalog-demo"
+  },
+  {
+    "id": "VF010",
+    "title": "Travel Atlas — Cổng du lịch",
+    "category": "GIS & WebGIS",
+    "stack": "JavaScript / GIS",
+    "price": 650000,
+    "kind": "map",
+    "featured": false,
+    "version": "1.0.0",
+    "license": "Giấy phép mẫu — cần xác nhận với người bán",
+    "description": "Giao diện mẫu cho cổng du lịch, thiết kế responsive và dễ tùy chỉnh theo dự án.",
+    "features": [
+      "Giao diện desktop và điện thoại",
+      "Cấu trúc thư mục rõ ràng",
+      "Hướng dẫn cấu hình và triển khai",
+      "Dữ liệu minh họa để thử giao diện"
+    ],
+    "status": "catalog-demo"
+  },
+  {
+    "id": "VF011",
+    "title": "FoodOrder — Đặt món trực tuyến",
+    "category": "Website bán hàng",
+    "stack": "PHP / MySQL",
+    "price": 450000,
+    "kind": "shop",
+    "featured": false,
+    "version": "1.0.0",
+    "license": "Giấy phép mẫu — cần xác nhận với người bán",
+    "description": "Giao diện mẫu cho đặt món trực tuyến, thiết kế responsive và dễ tùy chỉnh theo dự án.",
+    "features": [
+      "Giao diện desktop và điện thoại",
+      "Cấu trúc thư mục rõ ràng",
+      "Hướng dẫn cấu hình và triển khai",
+      "Dữ liệu minh họa để thử giao diện"
+    ],
+    "status": "catalog-demo"
+  },
+  {
+    "id": "VF012",
+    "title": "Task Agent — Bảng điều khiển AI",
+    "category": "AI & Automation",
+    "stack": "Python / API",
+    "price": 990000,
+    "kind": "chat",
+    "featured": false,
+    "version": "1.0.0",
+    "license": "Giấy phép mẫu — cần xác nhận với người bán",
+    "description": "Giao diện mẫu cho bảng điều khiển ai, thiết kế responsive và dễ tùy chỉnh theo dự án.",
+    "features": [
+      "Giao diện desktop và điện thoại",
+      "Cấu trúc thư mục rõ ràng",
+      "Hướng dẫn cấu hình và triển khai",
+      "Dữ liệu minh họa để thử giao diện"
+    ],
+    "status": "catalog-demo"
+  },
+  {
+    "id": "VF013",
+    "title": "GameHub — Cửa hàng trò chơi",
+    "category": "Game & Giải trí",
+    "stack": "React",
+    "price": 350000,
+    "kind": "shop",
+    "featured": false,
+    "version": "1.0.0",
+    "license": "Giấy phép mẫu — cần xác nhận với người bán",
+    "description": "Giao diện mẫu cho cửa hàng trò chơi, thiết kế responsive và dễ tùy chỉnh theo dự án.",
+    "features": [
+      "Giao diện desktop và điện thoại",
+      "Cấu trúc thư mục rõ ràng",
+      "Hướng dẫn cấu hình và triển khai",
+      "Dữ liệu minh họa để thử giao diện"
+    ],
+    "status": "catalog-demo"
+  },
+  {
+    "id": "VF014",
+    "title": "Clinic Desk — Lịch hẹn phòng khám",
+    "category": "Quản lý & Booking",
+    "stack": "Laravel",
+    "price": 750000,
+    "kind": "booking",
+    "featured": false,
+    "version": "1.0.0",
+    "license": "Giấy phép mẫu — cần xác nhận với người bán",
+    "description": "Giao diện mẫu cho lịch hẹn phòng khám, thiết kế responsive và dễ tùy chỉnh theo dự án.",
+    "features": [
+      "Giao diện desktop và điện thoại",
+      "Cấu trúc thư mục rõ ràng",
+      "Hướng dẫn cấu hình và triển khai",
+      "Dữ liệu minh họa để thử giao diện"
+    ],
+    "status": "catalog-demo"
+  },
+  {
+    "id": "VF015",
+    "title": "Agency One — Landing doanh nghiệp",
+    "category": "Template & Landing",
+    "stack": "HTML / CSS",
+    "price": 290000,
+    "kind": "portfolio",
+    "featured": false,
+    "version": "1.0.0",
+    "license": "Giấy phép mẫu — cần xác nhận với người bán",
+    "description": "Giao diện mẫu cho landing doanh nghiệp, thiết kế responsive và dễ tùy chỉnh theo dự án.",
+    "features": [
+      "Giao diện desktop và điện thoại",
+      "Cấu trúc thư mục rõ ràng",
+      "Hướng dẫn cấu hình và triển khai",
+      "Dữ liệu minh họa để thử giao diện"
+    ],
+    "status": "catalog-demo"
+  },
+  {
+    "id": "VF016",
+    "title": "IoT Monitor — Theo dõi cảm biến",
+    "category": "GIS & WebGIS",
+    "stack": "JavaScript / MQTT",
+    "price": 850000,
+    "kind": "dashboard",
+    "featured": false,
+    "version": "1.0.0",
+    "license": "Giấy phép mẫu — cần xác nhận với người bán",
+    "description": "Giao diện mẫu cho theo dõi cảm biến, thiết kế responsive và dễ tùy chỉnh theo dự án.",
+    "features": [
+      "Giao diện desktop và điện thoại",
+      "Cấu trúc thư mục rõ ràng",
+      "Hướng dẫn cấu hình và triển khai",
+      "Dữ liệu minh họa để thử giao diện"
+    ],
+    "status": "catalog-demo"
+  }
+]
